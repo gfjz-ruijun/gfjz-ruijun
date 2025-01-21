@@ -8,8 +8,7 @@
 ### 📲 网站运营
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
-| 🏠 Home      | 个人主页         | [https://gfjzz.cn/](https://gfjzz.cn/)  |
-| 🪄 Blog      | 个人博客         | [https://blog.gfjzz.cn/](https://blog.gfjzz.cn/) |
+| 🏠 Website      | 君主阁         | [https://gfjz.xyz/](https://gfjz.xyz/)  |
 ### 🌟 性格方向 
 充满热情和理想的 Protagonist（ENFJ-T）  
 - 🌍 外向性: 58%  
