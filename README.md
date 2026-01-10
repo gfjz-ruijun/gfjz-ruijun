@@ -1,113 +1,91 @@
-<!-- 顶部动态背景 -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:8e2de2,100:4a00e0%26height%3D220%26section%3Dheader%26text%3DHello%2520World%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35" width="100%" />
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100%" height="150" style="object-fit: cover;" />
 </div>
 
-<!-- 动态打字机特效 -->
+<h1 align="center">
+<pre>
+██████╗ ██╗   ██╗██╗     ██╗██╗   ██╗███╗   ██╗
+██╔══██╗██║   ██║██║     ██║██║   ██║████╗  ██║
+██████╔╝██║   ██║██║     ██║██║   ██║██╔██╗ ██║
+██╔══██╗██║   ██║██║██   ██║██║   ██║██║╚██╗██║
+██║  ██║╚██████╔╝██║╚█████╔╝╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
+</pre>
+</h1>
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/gfjz-ruijun">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DJetBrains%2BMono%26weight%3D700%26size%3D26%26pause%3D1000%26color%3DF2F2F2%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D70%26lines%3DSystem.out.println(%2522I%2Bam%2BGao%2BFeng%2BJun%2BZhu%2522)%253B%3Bclass%2BRole%2Bextends%2BDeveloper%2Bimplements%2BDreamer%3BLoading%2BModule:%2BVue.js...%3BMission:%2BMaster%2BAll%2BLanguages%2B%25F0%259F%259A%2580" alt="Typing SVG" />
-</a>
-</div>
-
-<!-- 社交徽章 -->
-
-<div align="center">
-<a href="https://gfjzz.cn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/🏠_君主阁-Website-7000FF?style=for-the-badge&logo=google-earth&logoColor=white" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/gfjz-ruijun">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Follow_Me-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
+<code>Ver 2.0.24</code> |
+<code>ENFJ-T</code> |
+<a href="https://gfjzz.cn"><b>君主阁 (Website)</b></a>
 </div>
 
 <br />
 
-<!-- 主体内容：采用表格布局实现左右分栏 -->
+📟 System.loadLibrary("UserProfile");
 
-<table>
-<tr>
-<td width="60%" valign="top">
+public class GaoFengJunZhu extends Developer {
 
-👨‍💻 <span style="color:#8e2de2">System.Identity.Load()</span>
-
-// 实体: 高峰君主 (Ruijun)
-// 版本: ENFJ-T (Protagonist) v2.0
-
-public class UserProfile {
-    String role = "Full-Stack Apprentice";
-    String[] core_skills = {"Java", "C#", "Python", "HTML5"};
-    String current_task = "Loading Vue.js Framework...";
+    // 🌟 核心资料 (Core Data)
+    private final String NAME = "瑞骏 (Ruijun)";
+    private final String ROLE = "Full-Stack Apprentice";
     
-    void dailyRoutine() {
-        while(alive) {
-            code();
-            // 🏸 敏捷训练：羽毛球 (Stamina +10)
-            playBadminton(); 
-            // 📸 视觉捕捉：摄影 (Creativity +15)
-            takePhotos();
-        }
+    // 🎯 当前任务 (Mission)
+    private String currentFocus = "Loading Vue.js Framework...";
+    private String ultimateGoal = "Mastering_All_Languages.exe";
+
+    // 🛠️ 技能树 (Tech Stack)
+    public void getSkills() {
+        String[] languages = { "Java", "C#", "Python", "HTML5" };
+        String[] learning  = { "Vue.js", "System Design" };
+        String[] hobbies   = { "🏸 Badminton", "📸 Photography", "💻 Coding" };
     }
-    
-    // ⚡ 终极技能正在冷却中...
-    String ultimateDream = "Mastering_All_Languages.exe";
+
+    // 📫 联系方式 (Comms)
+    public void contactMe() {
+        System.out.println("Leave a comment at: [https://gfjzz.cn](https://gfjzz.cn)");
+    }
 }
 
 
-🛠️ <span style="color:#8e2de2">Tech_Arsenal</span>
+<br />
 
-<!-- 前端 -->
+⚡ Terminal Status
 
-<!-- 后端 -->
+<!-- 简单的纯文本进度条，模拟离线动画 -->
 
-<!-- 工具 -->
+> Initializing Personality Protocol...
+> [ENFJ-T] Protagonist Mode: ONLINE
 
-</td>
-<td width="40%" valign="top">
+[Extraverted ] 58% [████████████░░░░░░░░]
+[Intuitive   ] 60% [████████████░░░░░░░░]
+[Feeling     ] 82% [████████████████░░░░]
+[Judging     ] 63% [█████████████░░░░░░░]
+[Turbulent   ] 71% [██████████████░░░░░░]
 
-🧬 <span style="color:#8e2de2">Bio_Analysis</span>
+> Status: Passionate & Idealistic
+
+
+<br />
+
+<!-- 使用折叠块隐藏复杂的统计图，保持页面整洁 -->
+
+<details>
+<summary><b>📊 Click to View GitHub Statistics (Server Data)</b></summary>
+
+
+
+
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgfjz-ruijun%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" width="100%"/>
+<!-- 修复了链接，现在应该可以正常显示了 -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgfjz-ruijun%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgfjz-ruijun%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" />
 </div>
+</details>
 
-🧠 ENFJ-T Stats
-
-E (外向) 58% ▓▓▓▓▓░░░
-N (直觉) 60% ▓▓▓▓▓▓░░
-F (情感) 82% ▓▓▓▓▓▓▓▓
-J (判断) 63% ▓▓▓▓▓▓░░
-T (动荡) 71% ▓▓▓▓▓▓▓░
-
-
-</td>
-</tr>
-</table>
-
-📊 <span style="color:#8e2de2">Contribution_Matrix</span>
-
-<!-- 3D 贪吃蛇动画 (需要 GitHub Action 支持，这里展示为静态占位，如果你配置了Action会自动动起来) -->
-
-<!-- 或者直接使用 3D 贡献图 -->
+<br />
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dgfjz-ruijun%26theme%3Dradical%26no-frame%3Dtrue%26column%3D7%26margin-w%3D15%26margin-h%3D15" />
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3Dgfjz-ruijun%26theme%3Dradical" width="100%">
-</div>
-
-<!-- 底部标语 -->
-
-<div align="center">
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Coding_The_Future-blueviolet%3Fstyle%3Dfor-the-badge">
-<p>📫 Leave a comment at <a href="https://gfjzz.cn"><b>君主阁</b></a> to ping me.</p>
+<!-- 简单的底部标语 -->
+<code>EOF: End Of File</code>
 </div>
