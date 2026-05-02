@@ -13,7 +13,7 @@
   
   <br/>
 
-  <a href="https://gfjzz.cn">
+  <a href="https://blog.apigf.cn">
     <img src="https://img.shields.io/badge/🏠_Website-君主阁-70a1ff?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>
   <a href="mailto:gfjz.0326@qq.com">
